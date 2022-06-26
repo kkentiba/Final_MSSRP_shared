@@ -8,5 +8,6 @@ get_yesterday <- function () {
  print("hello")
  print("more")
  #tESTING
+ #HHAHAHAHHA
 >>>>>>> a821708763eb21655effa3e96323a5a512b18909
 }
